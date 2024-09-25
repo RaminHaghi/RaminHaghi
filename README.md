@@ -1,1 +1,1 @@
-<p align="center"><a href="https://github.com/RaminHaghi"><img width="55%" alt="Hello, I'm Ramin. welcome to my github profile :)" src="https://github.com/RaminHaghi/RaminHaghi/blob/main/Untitled-1.png?raw=true"/></a></p>
+<p align="center"><a href="https://github.com/RaminHaghi"><img width="55%" alt="Hello, I'm Ramin. welcome to my github profile :)" src="https://github.com/RaminHaghi/RaminHaghi/blob/main/png%20Main.png?raw=true"/></a></p>
