@@ -1,4 +1,1 @@
-## Hi there 👋
-My name is Ramin i'm front-end developer
-___
-![Ramin Haghi stats](https://github-readme-stats.vercel.app/api?username=RaminHaghi&show_icons=true&theme=tokyonight)
+<img align="center" src="https://github.com/RaminHaghi/RaminHaghi/blob/main/Untitled-1.png?raw=true"/>
