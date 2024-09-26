@@ -6,7 +6,7 @@
 
 <br />
 
-<h4>💁‍♂️ &nbsp; About me :</h4>
+<h4>🙋🏻 &nbsp; About me :</h4>
 
 - i'm 25, live in iran and I love nature tourism 
 
@@ -16,7 +16,7 @@
   
 <br />
 
-<h4>🧑‍💻 &nbsp; Languages ​​and tools I currently work with :</h4>
+<h4>💻 &nbsp; Languages ​​and tools I currently work with :</h4>
 
 - ![Html5](https://img.shields.io/badge/HTML5-E34F26?=10x5style=for-the-badge&logo=html5&logoColor=white)
   ![Css3](https://img.shields.io/badge/CSS3-1572B6?=10x5style=for-the-badge&logo=css3&logoColor=white)
@@ -36,3 +36,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?=10x5style=for-the-badge&logo=telegram&logoColor=white)](https://holyTommy.t.me)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?=10x5style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+989036240212)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?=10x5style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/OmVWNr24AMz7)
+
+&nbsp;
+____
+
+<h5 align="center">🔸 my account activity status ᯓ★</h5>
+
+<p align="center">
+  <a href="https://github.com/RaminHaghi"> <img alt="Account stat" src="https://github-readme-stats.vercel.app/api?username=RaminHaghi&show_icons=true&theme=tokyonight" /></a> &nbsp;
+  <a href="https://github.com/RaminHaghi"> <img alt="Languages stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaminHaghi&layout=compact" /> </a>
+</p>
