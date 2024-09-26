@@ -2,13 +2,14 @@
 
 <br />
 
-*I'm a self-taught passionate FrontEnd developer 💎*
+*<p>respect makes your character more beautiful 💎 </p>*
 
 <br />
 
 <h4>🙋🏻 &nbsp; About me :</h4>
 
 - i'm 25, I am most interested in the Computer World and Coding
+- I'm a self-taught passionate FrontEnd developer
 
 <br />
 
