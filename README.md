@@ -10,7 +10,6 @@
 
 - i'm 25, I am most interested in the Computer World and Coding
 
-
 <br />
 
 <h4>💻 &nbsp; Languages ​​and tools I currently work with :</h4>
@@ -34,6 +33,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?=10x5style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+989036240212)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?=10x5style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/OmVWNr24AMz7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?10x5style=for-the-badge&logo=gmail&logoColor=white)](mailto:raminhaghi01@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?10x5style=for-the-badge&logo=x&logoColor=white)](https://x.com/ramin98h/)
 
 &nbsp;
 ____
