@@ -33,6 +33,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?=10x5style=for-the-badge&logo=telegram&logoColor=white)](https://holyTommy.t.me)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?=10x5style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+989036240212)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?=10x5style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/OmVWNr24AMz7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?10x5style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:raminhaghi01@gmail.com/)
 
 &nbsp;
 ____
