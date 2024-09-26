@@ -8,12 +8,9 @@
 
 <h4>🙋🏻 &nbsp; About me :</h4>
 
-- i'm 25, live in iran and I love nature tourism 
+- i'm 25, I am most interested in the Computer World and Coding
 
-- I am most interested in the Computer World and Coding
 
-- My main language is Kurdish, I can also speak Farsi and English
-  
 <br />
 
 <h4>💻 &nbsp; Languages ​​and tools I currently work with :</h4>
