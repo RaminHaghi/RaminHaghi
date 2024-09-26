@@ -1,8 +1,10 @@
 <p align="center"><a href="https://github.com/RaminHaghi"><img width="55%" height="20%" alt="Hello, I'm Ramin. welcome to my github profile :)" src="https://github.com/RaminHaghi/RaminHaghi/blob/main/icons.png/png%20Main.png?raw=true"/></a></p>
 
+&nbsp;
+
 <br />
 
-*<p>respect makes your character more beautiful 💎 </p>*
+- *<p>respect makes your character more beautiful 💎 </p>*
 
 <br />
 
