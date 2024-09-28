@@ -47,4 +47,3 @@ ____
   <a href="https://github.com/RaminHaghi"> <img alt="Account stat" src="https://github-readme-stats.vercel.app/api?username=RaminHaghi&show_icons=true&theme=tokyonight" /></a> &nbsp;
   <a href="https://github.com/RaminHaghi"> <img alt="Languages stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaminHaghi&layout=compact" /> </a>
 </p>
- support me
