@@ -41,9 +41,8 @@
 &nbsp;
 ____
 
-<h5 align="center">🔸 my account activity status ᯓ★</h5>
-
-<p align="center">
-  <a href="https://github.com/RaminHaghi"> <img alt="Account stat" src="https://github-readme-stats.vercel.app/api?username=RaminHaghi&show_icons=true&theme=tokyonight" /></a> &nbsp;
-  <a href="https://github.com/RaminHaghi"> <img alt="Languages stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaminHaghi&layout=compact" /> </a>
-</p>
+<h5>🔸 my account activity status ᯓ★</h5>
+  
+  | <a href="https://github.com/RaminHaghi"> <img alt="Account stat" src="https://github-readme-stats.vercel.app/api?username=RaminHaghi&show_icons=true&theme=tokyonight" /></a> &nbsp; | <a href="https://github.com/RaminHaghi"> <img alt="Languages stat"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaminHaghi&layout=compact" /> </a> |
+  | ------------- | -------------|
+  
