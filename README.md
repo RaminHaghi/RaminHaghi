@@ -23,7 +23,6 @@
   ![React](https://img.shields.io/badge/React-20232A?=10x5style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?=10x5style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Php Storm](http://img.shields.io/badge/-PHPStorm-181717?10x5style=for-the-badge&logo=phpstorm&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?=10x5style=for-the-badge&logo=figma&logoColor=white)
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?=10x5style=for-the-badge&logo=Adobe%20XD&logoColor=#9575CD)
   ![Github](https://img.shields.io/badge/GitHub-100000?10x5style=for-the-badge&logo=github&logoColor=white)
