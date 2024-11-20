@@ -4,7 +4,7 @@
 
 <br />
 
-- *<p>respect makes your character more beautiful 💎 </p>*
+- *<p>when time is just a number, boundaries lose their meaning 💎 </p>*
 
 <br />
 
@@ -12,7 +12,6 @@
 
 - i'm 25, I am most interested in the Computer World and Coding
 - I'm a self-taught passionate developer
-- When time is just a number, boundaries lose their meaning.
 
 <br />
 
