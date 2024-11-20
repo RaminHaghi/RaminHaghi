@@ -12,7 +12,7 @@
 
 - i'm 25, I am most interested in the Computer World and Coding
 - I'm a self-taught passionate developer
-- With an unconventional mind, I transform obstacles into new opportunities.
+- When time is just a number, boundaries lose their meaning.
 
 <br />
 
