@@ -4,7 +4,7 @@
 
 <br />
 
-- *<p>when time is just a number, boundaries lose their meaning 💎 </p>*
+- *<p>respect makes your character more beautiful💎 </p>*
 
 <br />
 
