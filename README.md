@@ -18,7 +18,7 @@
 #### 💻 Skills and Tools I Work With :
 
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/RaminHaghi">
     <img src="https://skillicons.dev/icons?i=github,vscode,html,css,tailwind,js,react,figma,xd" />
   </a>
 </p>
