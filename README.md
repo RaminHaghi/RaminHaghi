@@ -3,7 +3,7 @@
 <br/>
 <br />
 
-*<p align="center">respect makes your character more beautiful</p>*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=4000&pause=1500&color=80C4E9&width=530&lines=respect%2C+makes+your+character+more+beautiful)](https://git.io/typing-svg)
 
 <br />
 
