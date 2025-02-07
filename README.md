@@ -7,10 +7,12 @@
 
 <br />
 
-#### 🙋🏻 About Me:
+### 🙋🏻 About Me:
 
-- i'm 25, I am most interested in the Computer World and Coding
-- I'm a self-taught passionate developer
+- 🚀 Passionate Self-Taught Developer | Tech Enthusiast
+- 🛠️ Crafting clean, maintainable, and optimized code
+- 💻 Love building and exploring the world of code
+- 🧠 Always learning, always growing
 
 <hr />
 <br />
@@ -37,8 +39,8 @@
 
 <br/>
 
+#### 📈 Github account activity status ᯓ★
 <div>
-  <h4>📈 Github account activity status ᯓ★</h4>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaminHaghi&theme=apprentice" height="200">
   <img src="https://github-readme-stats.vercel.app/api?username=RaminHaghi&theme=nord&show_icons=true&hide_border=true&count_private=true" height="200px" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaminHaghi&theme=nord&show_icons=true&hide_border=true&count_private=true" height="200px" alt="Top Languages">
