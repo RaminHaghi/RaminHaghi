@@ -7,7 +7,7 @@
 
 <br />
 
-### 🙋🏻 About Me:
+### About Me:
 
 - 🚀 Passionate Self-Taught Developer | Tech Enthusiast
 - 🛠️ Crafting clean, maintainable, and optimized code
@@ -17,7 +17,7 @@
 <hr />
 <br />
 
-#### 💻 Skills and Tools I Work With :
+#### Skills and Tools I Work With :
 
 <p>
   <a href="https://github.com/RaminHaghi">
